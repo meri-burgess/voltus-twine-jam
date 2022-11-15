@@ -7,7 +7,7 @@ There is a basic premise to this Twine story (welcome to the Voltusverse). Besid
 ## How it works
 
 - Clone repo
-- Use (Twinery UI)[https://twinery.org/2/#/] to upload (Library > Import)
+- Use [Twinery UI](https://twinery.org/2/#/) to upload (Library > Import)
 - Make changes to game as you wish
 - Download HTML file (Build > Publish to file)
 - Rename to story.html
@@ -20,3 +20,10 @@ There is a basic premise to this Twine story (welcome to the Voltusverse). Besid
 - Do NOT download and make changes if someone else is taking a turn (the html files are difficult to resolve conflicts)
 - Once you declare a turn, try to complete your work as soon as possible
 - Annouce you are done with your turn in voltus slack #hackweek-art-group channel once you commit
+- We are using Harlowe 3.3 as the format for this Twine. Please no changes!
+
+## Resources
+
+- [Intro to Twine](https://twinery.org/reference/en/)
+- [Harlowe 3.3.3 manual](https://twine2.neocities.org)
+- [Twine cookbook](https://twinery.org/cookbook/index.html)
